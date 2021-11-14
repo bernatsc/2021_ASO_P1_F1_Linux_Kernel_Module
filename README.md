@@ -66,7 +66,7 @@ Per a que la compilacio funcioni adequadament cal:
 
 Per a la pràctica s'ha fet us de l'esquema electric proporcionat a l'enunciat.
 
-![General EXT2](img/documentacio_ext2_general.png)
+![General EXT2](img/F1_esquemaElectric.png)
 
 ## Procediment
 
@@ -149,7 +149,7 @@ Per a especificar que volem que faci el modul farem un programa en c. Aquest es 
 
 A continuació es fara una petita explicació de l'estructura i les funcions d'aquest. 
 
-<u>Estroctura del codi</u>
+<u>Estructura del codi</u>
 
 Primerament especificarem dades generals sobre el modul en questió.
 
@@ -292,9 +292,9 @@ Al llarg de la practica he assolit molts coneixement, aixó ho atribueixo al gra
 
 ---
 
-2020-2021
+2021-2022
 
-Sistemes operatius avançats - SOA
+Administració i disseny de sistemes operatius - ASO
    
 [Bernat Segura]() - <bernat.segura@students.salle.url.edu>
 
